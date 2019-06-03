@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.2)
+  - OpenCV (3.1.0.1)
+  - SwiftyTesseract (2.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - OpenCV (~> 3.1.0.1)
+  - SwiftyTesseract
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - OpenCV
+    - SwiftyTesseract
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  OpenCV: 41c4250e2b06a394d6fbb634b5fa622cdd846018
+  SwiftyTesseract: 44a8f4b2b7e5f22b997919f935261d22d28a4917
+
+PODFILE CHECKSUM: 8054366e1676d7705ff3f0f19ac363f5179fa08f
+
+COCOAPODS: 1.7.0.beta.3
